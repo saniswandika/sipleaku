@@ -1,0 +1,13 @@
+------------------------------|
+Akun Administrator            |
+------------------------------|
+Username : admin@dinsosbdg    |
+Password : sipelakudinsos2022 |
+                              |
+------------------------------|
+Akun Kepala Dinas Sosial      |
+------------------------------|
+Username : kadis@dinsosbdg    |
+Password : sipelakudinsos2022 |
+                              |
+------------------------------|
